@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Shobhit Patel<br>From LNCT, Bhopal
+<h3>Hi, I am Shobhit Patel<br>From LNCT, Bhopal</h3>
 
 
 ## 🌐 Socials:
